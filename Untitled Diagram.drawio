@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T22:15:33.772Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="tM_2Iz8EkNrJRFvlF-U5" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T22:20:12.184Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="K5W0ZkeaDP-R2itDME4c" version="13.8.5" type="github">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
             <mxPoint x="440" y="110" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b9qe-_sKUgxHq_5ZWORq-3" value="ingrese num 5&lt;br&gt;ingrese num 10" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
